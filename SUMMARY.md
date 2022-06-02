@@ -1,25 +1,4 @@
-# README
-
-## 蝉時雨
-
-[![Author](https://img.shields.io/badge/author-chanshiyucx-blue.svg?style=flat-square)](https://chanshiyu.com) [![Email](https://img.shields.io/badge/Email%20me-me@chanshiyu.com-green.svg?style=flat-square)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k)
-
-[![Chanshiyu's github stats](https://github-readme-stats.vercel.app/api?username=chanshiyucx)](https://github.com/anuraghazra/github-readme-stats)
-
-Code is Long, Life is Short.
-
-まだ五里霧中です。
-
-| 目录 | 描述                                                                           |
-| :--- | :----------------------------------------------------------------------------- |
-| 時雨 | 日常博文，记录自己工作与生活中的那点小事                                       |
-| 前端 | 前端知识库，包括且不限于 JavaScript、TypeScript、Nodejs、React、Vue 等知识总结 |
-| 后端 | 后端知识库，包括且不限于 Java、Spring、Linux、MySQL、Docker 等知识总结         |
-| 书斋 | 读书笔记，摘要读书过程中的知识要点和想法感悟                                   |
-| 纸函 | 优秀的博客文章，三人行必有我师                                                 |
-| 万藏 | 收集便捷好用的开发工具，以及收集的一些文档资料                                 |
-
-❤️💛💚💙💜💕💞💓💗💖💘💝❣❤
+# Table of contents
 
 - [README](README.md)
 - 時雨
@@ -96,6 +75,7 @@ Code is Long, Life is Short.
     - [03 Vue 项目引入 SVG 图标](前端/Vue/03-Vue-项目引入-SVG-图标.md)
     - [04 Vue 一键导出 PDF](前端/Vue/04-Vue-一键导出-PDF.md)
     - [05 动态可响应对象](前端/Vue/05-动态可响应对象.md)
+    - [06 Vue 引入 SCSS](前端/Vue/06-Vue-引入-SCSS.md)
   - 实战系列
     - [01 WebSocket 心跳重连机制](前端/实战系列/01-WebSocket-心跳重连机制.md)
     - [02 图片加解密二三事](前端/实战系列/02-图片加解密二三事.md)
@@ -160,7 +140,7 @@ Code is Long, Life is Short.
     - [03 获取请求 IP 地址](后端/实战系列/03-获取请求IP地址.md)
     - [04 Kaptcha 与数学公式验证码](后端/实战系列/04-Kaptcha-与数学公式验证码.md)
     - [05 Netty 获取客户端 IP.md](后端/实战系列/05-Netty-获取客户端IP.md)
-    - [06 高性能无锁队列 Disruptor](后端/实战系列/06-高性能无锁队列-Disruptor.md)
+    - [06 高性能无锁队列 Disruptor.md](后端/实战系列/06-高性能无锁队列-Disruptor.md)
     - [07 前后端接入阿里云盾](后端/实战系列/07-前后端接入阿里云盾.md)
   - Spring
     - [01 Spring Boot](后端/Spring/01-Spring-Boot.md)
@@ -242,7 +222,6 @@ Code is Long, Life is Short.
   - [20210506](纸函/20210506.md)
   - [20210512](纸函/20210512.md)
   - [20210518](纸函/20210518.md)
-  - [20220518](纸函/20220518.md)
 - 万藏
   - 文档
     - [01 Git 文档](https://git-scm.com/book/zh/v2)
